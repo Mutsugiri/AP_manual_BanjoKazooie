@@ -1,4 +1,4 @@
-# AP_manual_BanjoKazooie
+# AP_Manual_BanjoKazooie
 Il s'agît d'un manual que j'ai complété récemment d'un jeu à patournes de mon enfance
 # Setup Archipelago
 - Allez sur: https://archipelago.gg/tutorial/Archipelago/setup_en pour télécharger et configurer votre logiciel.
